@@ -70,13 +70,13 @@ I specialize in **QA automation** — building tools and platforms that make tes
 
 ## 💬 Quotes That Keep Me Going
 
-> 🧗 *"A bug found today is a crash prevented tomorrow."*
+> 🌱 *"Growth is quiet. You won't always feel it happening — but it is."*
 
-> 🔁 *"Automation isn't about avoiding work — it's about never doing the same work twice."*
+> 🔥 *"The version of you that gives up never finds out who they could've become."*
 
-> 💪 *"Every failed test case is one step closer to a flawless release."*
+> 🌧️ *"Some days you just survive. That still counts as moving forward."*
 
-> 🚀 *"Slow progress is still progress. Just don't stop testing."*
+> 🧭 *"Lost doesn't mean stuck. It just means you haven't found your way yet."*
 
 ---
 
