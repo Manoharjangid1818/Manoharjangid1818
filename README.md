@@ -47,6 +47,17 @@ I specialize in **QA automation** — building tools and platforms that make tes
 This section updates automatically using GitHub Actions.
 
 <!-- AUTO-REPOS:START -->
+| Repo | Description | Tech | Stars | Last Updated |
+|---|---|---|---|---|
+| [**reynard-automation**](https://github.com/Manoharjangid1818/reynard-automation) | Playwright + JavaScript test automation framework for the Reynard field management app. POM architecture, fully data-driven (add tests via JSON, zero code changes), per-module reporting, and cumulative run history. | `JavaScript` | ⭐ 1 | 27 Jun 2026 |
+| [**Try-Grounded-AI-Automation-**](https://github.com/Manoharjangid1818/Try-Grounded-AI-Automation-) | No description added yet. | `JavaScript` | ⭐ 2 | 25 Jun 2026 |
+| [**Quickbid**](https://github.com/Manoharjangid1818/Quickbid) | Bidding Platform  | `HTML` | ⭐ 2 | 25 Jun 2026 |
+| [**E-commerce-Automation-Framework-Playwright**](https://github.com/Manoharjangid1818/E-commerce-Automation-Framework-Playwright) | Automation testing framework built with Playwright (JavaScript) implementing Page Object Model (POM) for scalable and maintainable end-to-end testing of e-commerce workflows. | `JavaScript` | ⭐ 1 | 25 Jun 2026 |
+| [**Hire_hub**](https://github.com/Manoharjangid1818/Hire_hub) | KiwiQA Hirehub – Smart Hiring & QA Platform A comprehensive platform designed to streamline hiring and QA processes. KiwiQA Hirehub helps teams manage recruitment, track candidates, and maintain QA workflows efficiently in one place. | `TypeScript` | ⭐ 1 | 25 Jun 2026 |
+| [**Playwright**](https://github.com/Manoharjangid1818/Playwright) | No description added yet. | `JavaScript` | ⭐ 1 | 25 Jun 2026 |
+| [**Inspecta**](https://github.com/Manoharjangid1818/Inspecta) | No description added yet. | `HTML` | ⭐ 2 | 25 Jun 2026 |
+| [**OrangeHRM-Exercise-**](https://github.com/Manoharjangid1818/OrangeHRM-Exercise-) | No description added yet. | `Python` | ⭐ 1 | 25 Jun 2026 |
+| [**TESTFORGE-AI**](https://github.com/Manoharjangid1818/TESTFORGE-AI) | TESTFORGE AI is an AI-powered quality assurance tool designed to help developers and QA teams automate test case generation, detect bugs, and optimize testing workflows. It features a Smart QA Assistant Chatbot that interacts naturally with testers, generating structured test cases, identifying potential UI/functional issues, and recommending which | `JavaScript` | ⭐ 2 | 25 Jun 2026 |
 <!-- AUTO-REPOS:END -->
 
 ---
