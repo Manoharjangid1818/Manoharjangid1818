@@ -50,9 +50,11 @@ jobs:
               return `| [**${repo.name}**](${repo.html_url}) | ${description} | ${language} | ${stars} | ${updatedDate} |`;
             }).join("\n");
 
-            const newSection = `| Repo | Description | Tech | Stars | Last Updated |
-|---|---|---|---|---|
-${repoRows}`;
+            const newSection = [
+              "| Repo | Description | Tech | Stars | Last Updated |",
+              "|---|---|---|---|---|",
+              repoRows
+            ].join("\n");
 
             let readme = fs.readFileSync(readmePath, "utf8");
 
