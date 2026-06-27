@@ -19,7 +19,7 @@ I specialize in **QA automation** — building tools and platforms that make tes
 
 ### 🧪 QA & Test Automation
 
-| Repo | What it does | |
+| Repo | What it does | Stars |
 |---|---|---|
 | [**QA360-SaaS-Platform**](https://github.com/Manoharjangid1818/QA360-SaaS-Platform) | A complete QA monitoring SaaS built with Playwright for end-to-end web app testing, giving QA teams a full visibility dashboard | ![Stars](https://img.shields.io/github/stars/Manoharjangid1818/QA360-SaaS-Platform?style=social) |
 | [**TESTFORGE-AI**](https://github.com/Manoharjangid1818/TESTFORGE-AI) | AI-powered QA tool that auto-generates test cases, detects bugs, and includes a Smart QA Assistant to optimize testing workflows | ![Stars](https://img.shields.io/github/stars/Manoharjangid1818/TESTFORGE-AI?style=social) |
@@ -27,18 +27,27 @@ I specialize in **QA automation** — building tools and platforms that make tes
 
 ### 🤖 AI & Automation Tooling
 
-| Repo | What it does | |
+| Repo | What it does | Stars |
 |---|---|---|
 | [**Try-Grounded-AI-Automation-**](https://github.com/Manoharjangid1818/Try-Grounded-AI-Automation-) | Experiments in grounded AI automation workflows | ![Stars](https://img.shields.io/github/stars/Manoharjangid1818/Try-Grounded-AI-Automation-?style=social) |
 
 ### 🌐 Web Projects
 
-| Repo | What it does | |
+| Repo | What it does | Stars |
 |---|---|---|
 | [**Quickbid**](https://github.com/Manoharjangid1818/Quickbid) | A bidding platform web app | ![Stars](https://img.shields.io/github/stars/Manoharjangid1818/Quickbid?style=social) |
 | [**MANOHAR.ME**](https://github.com/Manoharjangid1818/MANOHAR.ME) | My personal portfolio site | ![Stars](https://img.shields.io/github/stars/Manoharjangid1818/MANOHAR.ME?style=social) |
 
 > ⭐ More projects on my [repositories page →](https://github.com/Manoharjangid1818?tab=repositories)
+
+---
+
+## 🆕 Latest Repositories
+
+This section updates automatically using GitHub Actions.
+
+<!-- AUTO-REPOS:START -->
+<!-- AUTO-REPOS:END -->
 
 ---
 
@@ -63,8 +72,6 @@ I specialize in **QA automation** — building tools and platforms that make tes
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoharjangid1818&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ---
 
