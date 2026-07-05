@@ -49,7 +49,7 @@ This section updates automatically using GitHub Actions.
 <!-- AUTO-REPOS:START -->
 | Repo | Description | Tech | Stars | Last Updated |
 |---|---|---|---|---|
-| [**reynard-automation**](https://github.com/Manoharjangid1818/reynard-automation) | Playwright + JavaScript test automation framework for the Reynard field management app. POM architecture, fully data-driven (add tests via JSON, zero code changes), per-module reporting, and cumulative run history. | `HTML` | ⭐ 1 | 3 Jul 2026 |
+| [**reynard-automation**](https://github.com/Manoharjangid1818/reynard-automation) | Playwright + JavaScript test automation framework for the Reynard field management app. POM architecture, fully data-driven (add tests via JSON, zero code changes), per-module reporting, and cumulative run history. | `HTML` | ⭐ 1 | 5 Jul 2026 |
 | [**Try-Grounded-AI-Automation-**](https://github.com/Manoharjangid1818/Try-Grounded-AI-Automation-) | No description added yet. | `JavaScript` | ⭐ 2 | 25 Jun 2026 |
 | [**Quickbid**](https://github.com/Manoharjangid1818/Quickbid) | Bidding Platform  | `HTML` | ⭐ 2 | 25 Jun 2026 |
 | [**E-commerce-Automation-Framework-Playwright**](https://github.com/Manoharjangid1818/E-commerce-Automation-Framework-Playwright) | Automation testing framework built with Playwright (JavaScript) implementing Page Object Model (POM) for scalable and maintainable end-to-end testing of e-commerce workflows. | `JavaScript` | ⭐ 1 | 25 Jun 2026 |
