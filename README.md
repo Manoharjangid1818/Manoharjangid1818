@@ -6,7 +6,7 @@
 
 I specialize in **QA automation** — building tools and platforms that make testing faster, smarter, and more reliable. I also build AI-powered tooling and full-stack apps on the side.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-MANOHAR.ME-FF5733?style=for-the-badge)](https://github.com/Manoharjangid1818/MANOHAR.ME)
+(https://github.com/Manoharjangid1818/MANOHAR.ME)
 [![Blog](https://img.shields.io/badge/✍️_Blog-Hashnode-2962FF?style=for-the-badge)](https://hashnode.com/@StaticVar18)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/manohar-jangid/)
 [![Location](https://img.shields.io/badge/📍_Based_in-Ahmedabad,_India-555555?style=for-the-badge)](#)
@@ -36,7 +36,7 @@ I specialize in **QA automation** — building tools and platforms that make tes
 | Repo | What it does | Stars |
 |---|---|---|
 | [**Quickbid**](https://github.com/Manoharjangid1818/Quickbid) | A bidding platform web app | ![Stars](https://img.shields.io/github/stars/Manoharjangid1818/Quickbid?style=social) |
-| [**MANOHAR.ME**](https://github.com/Manoharjangid1818/MANOHAR.ME) | My personal portfolio site | ![Stars](https://img.shields.io/github/stars/Manoharjangid1818/MANOHAR.ME?style=social) |
+
 
 > ⭐ More projects on my [repositories page →](https://github.com/Manoharjangid1818?tab=repositories)
 
