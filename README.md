@@ -102,7 +102,6 @@ This section updates automatically using GitHub Actions.
 
 | Channel | Link |
 |---|---|
-| 🌐 Portfolio | [MANOHAR.ME](https://github.com/Manoharjangid1818/MANOHAR.ME) |
 | ✍️ Blog | [hashnode.com/@StaticVar18](https://hashnode.com/@StaticVar18) |
 | 💼 LinkedIn | [linkedin.com/in/manohar-jangid](https://www.linkedin.com/in/manohar-jangid/) |
 
