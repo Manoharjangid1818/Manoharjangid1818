@@ -6,7 +6,7 @@
 
 I specialize in **QA automation** — building tools and platforms that make testing faster, smarter, and more reliable. I also build AI-powered tooling and full-stack apps on the side.
 
-(https://github.com/Manoharjangid1818/MANOHAR.ME)
+
 [![Blog](https://img.shields.io/badge/✍️_Blog-Hashnode-2962FF?style=for-the-badge)](https://hashnode.com/@StaticVar18)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/manohar-jangid/)
 [![Location](https://img.shields.io/badge/📍_Based_in-Ahmedabad,_India-555555?style=for-the-badge)](#)
