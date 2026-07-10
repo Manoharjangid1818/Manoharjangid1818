@@ -49,8 +49,8 @@ This section updates automatically using GitHub Actions.
 <!-- AUTO-REPOS:START -->
 | Repo | Description | Tech | Stars | Last Updated |
 |---|---|---|---|---|
+| [**Manohar.Mee**](https://github.com/Manoharjangid1818/Manohar.Mee) | No description added yet. | `TypeScript` | ⭐ 0 | 10 Jul 2026 |
 | [**reynard-automation**](https://github.com/Manoharjangid1818/reynard-automation) | Playwright + JavaScript test automation framework for the Reynard windmill management app. POM architecture, fully data-driven (add tests via JSON, zero code changes), per-module reporting, and cumulative run history. | `HTML` | ⭐ 1 | 10 Jul 2026 |
-| [**Try-Grounded-AI-Automation-**](https://github.com/Manoharjangid1818/Try-Grounded-AI-Automation-) | No description added yet. | `JavaScript` | ⭐ 2 | 25 Jun 2026 |
 | [**Quickbid**](https://github.com/Manoharjangid1818/Quickbid) | Bidding Platform  | `HTML` | ⭐ 2 | 25 Jun 2026 |
 | [**E-commerce-Automation-Framework-Playwright**](https://github.com/Manoharjangid1818/E-commerce-Automation-Framework-Playwright) | Automation testing framework built with Playwright (JavaScript) implementing Page Object Model (POM) for scalable and maintainable end-to-end testing of e-commerce workflows. | `JavaScript` | ⭐ 1 | 25 Jun 2026 |
 | [**Hire_hub**](https://github.com/Manoharjangid1818/Hire_hub) | KiwiQA Hirehub – Smart Hiring & QA Platform A comprehensive platform designed to streamline hiring and QA processes. KiwiQA Hirehub helps teams manage recruitment, track candidates, and maintain QA workflows efficiently in one place. | `TypeScript` | ⭐ 1 | 25 Jun 2026 |
