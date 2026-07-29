@@ -49,6 +49,7 @@ This section updates automatically using GitHub Actions.
 <!-- AUTO-REPOS:START -->
 | Repo | Description | Tech | Stars | Last Updated |
 |---|---|---|---|---|
+| [**QA360-SaaS-Platform**](https://github.com/Manoharjangid1818/QA360-SaaS-Platform) | QA360 – Complete QA Monitoring Platform A smart automation monitoring platform built with Playwright for end-to-end web application testing. QA360 provides a complete monitoring view, enabling QA engineers to track test execution, visualize results, and ensure UI/functional consistency across environments.   | `TypeScript` | ⭐ 2 | 29 Jul 2026 |
 | [**KIRA-QA**](https://github.com/Manoharjangid1818/KIRA-QA) | Repository for private LLM created with fastAPI | `TypeScript` | ⭐ 0 | 29 Jul 2026 |
 | [**reynard-automation**](https://github.com/Manoharjangid1818/reynard-automation) | Playwright + JavaScript test automation framework for the Reynard windmill management app. POM architecture, fully data-driven (add tests via JSON, zero code changes), per-module reporting, and cumulative run history. | `HTML` | ⭐ 1 | 29 Jul 2026 |
 | [**Manohar.Mee**](https://github.com/Manoharjangid1818/Manohar.Mee) | No description added yet. | `TypeScript` | ⭐ 0 | 10 Jul 2026 |
@@ -57,7 +58,6 @@ This section updates automatically using GitHub Actions.
 | [**Hire_hub**](https://github.com/Manoharjangid1818/Hire_hub) | KiwiQA Hirehub – Smart Hiring & QA Platform A comprehensive platform designed to streamline hiring and QA processes. KiwiQA Hirehub helps teams manage recruitment, track candidates, and maintain QA workflows efficiently in one place. | `TypeScript` | ⭐ 1 | 25 Jun 2026 |
 | [**Playwright**](https://github.com/Manoharjangid1818/Playwright) | No description added yet. | `JavaScript` | ⭐ 1 | 25 Jun 2026 |
 | [**Inspecta**](https://github.com/Manoharjangid1818/Inspecta) | No description added yet. | `HTML` | ⭐ 2 | 25 Jun 2026 |
-| [**OrangeHRM-Exercise-**](https://github.com/Manoharjangid1818/OrangeHRM-Exercise-) | No description added yet. | `Python` | ⭐ 1 | 25 Jun 2026 |
 <!-- AUTO-REPOS:END -->
 
 ---
