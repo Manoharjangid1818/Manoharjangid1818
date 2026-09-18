@@ -49,6 +49,7 @@ This section updates automatically using GitHub Actions.
 <!-- AUTO-REPOS:START -->
 | Repo | Description | Tech | Stars | Last Updated |
 |---|---|---|---|---|
+| [**ReTeamEnergy-Playwright**](https://github.com/Manoharjangid1818/ReTeamEnergy-Playwright) | No description added yet. | `TypeScript` | ⭐ 0 | 18 Sept 2026 |
 | [**Onehaven**](https://github.com/Manoharjangid1818/Onehaven) | No description added yet. | Not specified | ⭐ 1 | 10 Aug 2026 |
 | [**QA360-SaaS-Platform**](https://github.com/Manoharjangid1818/QA360-SaaS-Platform) | QA360 – Complete QA Monitoring Platform A smart automation monitoring platform built with Playwright for end-to-end web application testing. QA360 provides a complete monitoring view, enabling QA engineers to track test execution, visualize results, and ensure UI/functional consistency across environments.   | `TypeScript` | ⭐ 2 | 29 Jul 2026 |
 | [**KIRA-QA**](https://github.com/Manoharjangid1818/KIRA-QA) | Repository for private LLM created with fastAPI | `TypeScript` | ⭐ 0 | 29 Jul 2026 |
@@ -57,7 +58,6 @@ This section updates automatically using GitHub Actions.
 | [**E-commerce-Automation-Framework-Playwright**](https://github.com/Manoharjangid1818/E-commerce-Automation-Framework-Playwright) | Automation testing framework built with Playwright (JavaScript) implementing Page Object Model (POM) for scalable and maintainable end-to-end testing of e-commerce workflows. | `JavaScript` | ⭐ 1 | 25 Jun 2026 |
 | [**Hire_hub**](https://github.com/Manoharjangid1818/Hire_hub) | KiwiQA Hirehub – Smart Hiring & QA Platform A comprehensive platform designed to streamline hiring and QA processes. KiwiQA Hirehub helps teams manage recruitment, track candidates, and maintain QA workflows efficiently in one place. | `TypeScript` | ⭐ 1 | 25 Jun 2026 |
 | [**Playwright**](https://github.com/Manoharjangid1818/Playwright) | No description added yet. | `JavaScript` | ⭐ 1 | 25 Jun 2026 |
-| [**Inspecta**](https://github.com/Manoharjangid1818/Inspecta) | No description added yet. | `HTML` | ⭐ 2 | 25 Jun 2026 |
 <!-- AUTO-REPOS:END -->
 
 ---
